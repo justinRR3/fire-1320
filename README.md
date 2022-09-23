@@ -1,5 +1,5 @@
-# fire-1320###
-## 1320-001##
+# fire-1320
+## 1320-001
 ### **first repo**
 
 Currently learning to program in **_C_**, working on my software engineering degree at University of Texas at Arlington.
