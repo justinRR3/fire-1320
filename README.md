@@ -4,7 +4,8 @@
 
 Currently learning to program in **_C_**, working on my software engineering degree at University of Texas at Arlington.
 👍
-First time using <sup>GitHub</sup> and diving into the ~~flow.~~ 
+
+First time using <sup>GitHub</sup> and diving into the ~~flow.~~ 🤖
 
 (Test nested loop)
 1. Things to do:
